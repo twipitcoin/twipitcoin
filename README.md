@@ -16,15 +16,15 @@ this Сrypto Сurrency and actively allows to become a popular cryptocoin among 
 
 Specifications:
 
-Algo: Scrypt
-Total coins: 201600000
-Block value: 60
-Block target time: 10 minutes
-Dificulty retarget: every 30 block
-Block confirmation: 10
-Halving: 840000 blocks
-Premaining: 50% Are paid to Twipit Money Maker Users
-P2P port: 11070 / RPC port: 21070
+- Algo: Scrypt
+- Total coins: 201600000
+- Block value: 60
+- Block target time: 10 minutes
+- Dificulty retarget: every 30 block
+- Block confirmation: 10
+- Halving: 840000 blocks
+- Premaining: 50% Are paid to Twipit Money Maker Users
+- P2P port: 11070 / RPC port: 21070
 
 For more information, as well as an immediately useable, binary version of
 the Twipit client sofware, see http://www.twipit.org.
